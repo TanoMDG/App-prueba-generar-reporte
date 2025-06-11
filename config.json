@@ -1,0 +1,10 @@
+{
+  "country": "Argentina",
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "port": 465,
+    "sender": "tureporte@empresa.com",
+    "password": "tu_contraseña",
+    "receiver": "destinatario@cliente.com"
+  }
+}
